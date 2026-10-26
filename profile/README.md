@@ -49,5 +49,5 @@ We maintain an open engineering knowledge hub on the **[CDRBStores Blog](https:/
 ---
 
 ### 📩 Contact & Business Support
-* **Email:** [support@cdrbstores.com](mailto:support@cdrbstores.com)
+* **Email:** [info@cdrbstores.com](mailto:info@cdrbstores.com)
 * **Headquarters:** Santa Maria, California, USA
